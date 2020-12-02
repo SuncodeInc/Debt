@@ -3177,7 +3177,7 @@ html.no-csstransitions .home-content__main {
 }
 
 .item-feature__icon {
-  color: #5b4f96;
+  color: #00574B;
   font-size: 4.8rem;
 }
 
@@ -3596,19 +3596,19 @@ html.no-csstransitions .home-content__main {
  * ------------------------------------------------------------------- */
 .s-download {
   padding-top: 18.4rem;
-  background-color: #5b4f96;
-  color: rgba(255, 255, 255, 0.8);
+  background-color: #eaeaea;
+  color: black;
   overflow: hidden;
   position: relative;
 }
 
 .s-download .display-1,
 .s-download h3 {
-  color: #ffffff;
+  color: black;
 }
 
 .s-download p.lead {
-  color: rgba(255, 255, 255, 0.6);
+  color: black;
 }
 
 .s-download .download-badges {
