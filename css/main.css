@@ -83,7 +83,7 @@ body {
 }
 
 body {
-  background: #121619;
+  background: #00574B;
   font-family: "Nunito Sans", sans-serif;
   font-size: 1.8rem;
   font-style: normal;
@@ -2219,7 +2219,7 @@ input::-moz-focus-inner {
   line-height: 5.6rem;
   text-transform: uppercase;
   letter-spacing: .3rem;
-  color: #5b4f96;
+  color: #ffffff;
   border-bottom: 1px solid transparent;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
@@ -3451,7 +3451,7 @@ html.no-csstransitions .home-content__main {
 
 .item-plan__price {
   font-family: "Chivo", sans-serif;
-  font-size: 7.4rem;
+  font-size: 4.4rem;
   line-height: 1.081;
   font-weight: 600;
   color: #000000;
@@ -3739,7 +3739,7 @@ html.no-csstransitions .home-content__main {
 
 .s-footer .footer__mail-link {
   font-weight: 800;
-  color: #5b4f96;
+  color: #ffffff;
 }
 
 .s-footer .footer__mail-link:hover,
@@ -3975,7 +3975,7 @@ html.no-csstransitions .home-content__main {
   line-height: 5.6rem;
   text-align: center;
   background-image: url(../images/icons/icon-arrow-up.svg);
-  background-color: #000000;
+  background-color: #008577;
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 10px 15px;
@@ -3990,7 +3990,7 @@ html.no-csstransitions .home-content__main {
 .go-top a:hover,
 .go-top a:focus,
 .go-top a:active {
-  background-color: #514686;
+  background-color: #00574B;
 }
 
 .go-top.link-is-visible {
