@@ -1,3 +1,5 @@
 *.psd
 /.idea/
 index-backup.html
+/.well-known
+/cgi-bin
